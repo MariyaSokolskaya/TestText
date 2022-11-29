@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestText</string>
+    <string name="button_text">Вычислить</string>
+</resources>
